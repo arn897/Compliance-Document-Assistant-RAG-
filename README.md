@@ -3,7 +3,7 @@
 A Retrieval-Augmented Generation (RAG) system that answers questions about financial and compliance documents (10-Ks, annual reports, regulatory filings) with **cited, grounded answers** — and explicitly refuses to answer when the information isn't present in the source document, rather than hallucinating figures.
 
 **🔗 Live Demo:** [[your-streamlit-url-here](https://e6hf3igpqcyuldeizpjdzx.streamlit.app/)]
-**🎥 Video Demo:** [your-video-link-here]
+**🎥 Photo Demo:** [[your-video-link-here](https://github.com/arn897/Compliance-Document-Assistant-RAG-/blob/main/demo1.png)]
 
 ---
 
