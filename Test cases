@@ -1,0 +1,11 @@
+Testing questions for given Dataset
+{"question": "What were the general and administrative expenses for 2024 compared to 2023?",
+     "expected_answer": "$48,672,000 for 2024 vs $49,565,000 for 2023"},
+    {"question": "What was the total revenue this year?",
+     "expected_answer": "Not available — should refuse"},
+    {"question": "What were the net unrealized losses for 2024, 2023, and 2022?",
+     "expected_answer": "$4.4 million, $3.3 million, $1.4 million respectively"},
+    {"question": "What was the net cash provided by operating activities for 2024?",
+     "expected_answer": "$14.1 million"},
+    {"question": "How much did net cash, cash equivalents and restricted cash decrease during 2024?",
+     "expected_answer": "$1.6 million"}
